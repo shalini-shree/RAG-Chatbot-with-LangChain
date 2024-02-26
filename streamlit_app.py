@@ -25,8 +25,8 @@ Original file is located at
 # from langchain.vectorstores import Pinecone
 # 
 # # Set API keys as environment variables
-# os.environ["OPENAI_API_KEY"] = os.getenv("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")
-# os.environ["PINECONE_API_KEY"] = os.getenv("25555acb-fab7-461a-a9ec-ec8427e42543")
+# os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
+# os.environ["PINECONE_API_KEY"] = os.getenv("PINECONE_API_KEY")
 # 
 # # Initialize OpenAI chat model
 # chat = ChatOpenAI(
